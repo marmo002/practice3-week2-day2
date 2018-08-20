@@ -24,3 +24,5 @@ def better_wrap(text, symbol)
 end
 
 puts better_wrap("word", "++===")
+puts better_wrap("martin", "--:::")
+puts better_wrap("ekin", ":::")
